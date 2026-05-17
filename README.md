@@ -1,6 +1,6 @@
 # Hi, I'm Hemanth 👋
 
-Data Analyst based in Gudivada, India. I turn raw data into clear, actionable insights.
+Data Analyst Fresher based in Gudivada, India. I turn raw data into clear, actionable insights.
 
 ---
 
